@@ -52,7 +52,7 @@
 
     { "id": "t41", "title": "ATPJ Programmation", "type": "ATPJ", "owner": "Nathan", "responsible": "Nathan", "status": "inprogress" },
     { "id": "t42", "title": "ATPJ Game Design", "type": "ATPJ", "owner": "Nathan", "responsible": "Andras", "status": "inprogress" },
-    { "id": "t43", "title": "TEPR Programmation", "type": "TEPR", "owner": "Nathan", "responsible": "Andras", "status": "donne" },
+    { "id": "t43", "title": "TEPR Programmation", "type": "TEPR", "owner": "Nathan", "responsible": "Andras", "status": "done" },
     { "id": "t44", "title": "TEPR VFX", "type": "TEPR", "owner": "Nathan", "responsible": "Nathan", "status": "todo" },
     { "id": "t45", "title": "TEPR Texturing procédural", "type": "TEPR", "owner": "Nathan", "responsible": "Nathan", "status": "todo" },
     { "id": "t56", "title": "TECR Animation", "type": "TECR", "owner": "Nathan", "responsible": "Elora", "status": "inprogress" },
