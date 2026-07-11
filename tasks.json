@@ -16,14 +16,14 @@
     { "id": "t07", "title": "TECR Texturing stylisé", "type": "TECR", "owner": "Andras", "responsible": "Nathan", "status": "done" },
     { "id": "t08", "title": "INML Unity", "type": "INML", "owner": "Andras", "responsible": "Andras", "status": "done" },
     
-    { "id": "t09", "title": "ATPJ Game Design", "type": "ATPJ", "owner": "Christina", "responsible": "Andras", "status": "todo" },
-    { "id": "t10", "title": "ATPJ Game Art", "type": "ATPJ", "owner": "Christina", "responsible": "Christina", "status": "todo" },
+    { "id": "t09", "title": "ATPJ Game Design", "type": "ATPJ", "owner": "Christina", "responsible": "Andras", "status": "inprogress" },
+    { "id": "t10", "title": "ATPJ Game Art", "type": "ATPJ", "owner": "Christina", "responsible": "Christina", "status": "inprogress" },
     { "id": "t11", "title": "TEPR Programmation", "type": "TEPR", "owner": "Christina", "responsible": "Andras", "status": "inprogress" },
     { "id": "t12", "title": "TEPR VFX", "type": "TEPR", "owner": "Christina", "responsible": "Christina", "status": "todo" },
     { "id": "t13", "title": "TEPR Texturing procédural", "type": "TEPR", "owner": "Christina", "responsible": "Christina", "status": "todo" },
     { "id": "t14", "title": "TECR Matériaux", "type": "TECR", "owner": "Christina", "responsible": "Christina", "status": "done" },
     { "id": "t15", "title": "TECR 3D", "type": "TECR", "owner": "Christina", "responsible": "Christina", "status": "todo" },
-    { "id": "t16", "title": "INML Unreal", "type": "INML", "owner": "Christina", "responsible": "Hugo", "status": "todo" },
+    { "id": "t16", "title": "INML Unreal", "type": "INML", "owner": "Christina", "responsible": "Hugo", "status": "inprogress" },
     { "id": "t17", "title": "HCJV (examen écrit)", "type": "HCJV", "owner": "Christina", "responsible": "Christina", "status": "todo" },
 
     { "id": "t18", "title": "ATPJ Game Design", "type": "ATPJ", "owner": "Elora", "responsible": "Andras", "status": "inprogress" },
