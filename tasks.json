@@ -7,8 +7,8 @@
   },
 
   "tasks": [
-    { "id": "t01", "title": "ATPJ Programmation", "type": "ATPJ", "owner": "Andras", "responsible": "Andras", "status": "inprogress" },
-    { "id": "t02", "title": "TEPR Programmation", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "todo" },
+    { "id": "t01", "title": "ATPJ Programmation", "type": "ATPJ", "owner": "Andras", "responsible": "Andras", "status": "done" },
+    { "id": "t02", "title": "TEPR Programmation", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "inprogress" },
     { "id": "t03", "title": "TEPR VFX", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "todo" },
     { "id": "t04", "title": "TEPR Texturing procédural", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "inprogress" },
     { "id": "t05", "title": "TECR Animation", "type": "TECR", "owner": "Andras", "responsible": "Elora", "status": "done" },
