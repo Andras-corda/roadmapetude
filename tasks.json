@@ -39,7 +39,7 @@
     { "id": "t29", "title": "OCJV (examen écrit)", "type": "OCJV", "owner": "Elora", "responsible": "Elora", "status": "todo" },
 
     { "id": "t30", "title": "ATPJ Programmation", "type": "ATPJ", "owner": "Hugo", "responsible": "Hugo", "status": "todo" },
-    { "id": "t31", "title": "ATPJ Game Art", "type": "ATPJ", "owner": "Hugo", "responsible": "Hugo", "status": "todo" },
+    { "id": "t31", "title": "ATPJ Game Art", "type": "ATPJ", "owner": "Hugo", "responsible": "Christina", "status": "todo" },
     { "id": "t32", "title": "TEPR Programmation", "type": "TEPR", "owner": "Hugo", "responsible": "Andras", "status": "inprogress" },
     { "id": "t33", "title": "TEPR VFX", "type": "TEPR", "owner": "Hugo", "responsible": "Hugo", "status": "todo" },
     { "id": "t34", "title": "TEPR Texturing procédural", "type": "TEPR", "owner": "Hugo", "responsible": "Hugo", "status": "inprogress" },
