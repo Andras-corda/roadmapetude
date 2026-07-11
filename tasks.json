@@ -22,7 +22,6 @@
     { "id": "t12", "title": "TEPR VFX", "type": "TEPR", "owner": "Christina", "responsible": "Christina", "status": "todo" },
     { "id": "t13", "title": "TEPR Texturing procédural", "type": "TEPR", "owner": "Christina", "responsible": "Christina", "status": "todo" },
     { "id": "t14", "title": "TECR Matériaux", "type": "TECR", "owner": "Christina", "responsible": "Christina", "status": "done" },
-    { "id": "t15", "title": "TECR 3D", "type": "TECR", "owner": "Christina", "responsible": "Christina", "status": "todo" },
     { "id": "t16", "title": "INML Unreal", "type": "INML", "owner": "Christina", "responsible": "Hugo", "status": "inprogress" },
     { "id": "t17", "title": "HCJV (examen écrit)", "type": "HCJV", "owner": "Christina", "responsible": "Christina", "status": "todo" },
 
