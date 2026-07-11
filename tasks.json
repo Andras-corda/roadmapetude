@@ -9,7 +9,7 @@
   "tasks": [
     { "id": "t01", "title": "ATPJ Programmation", "type": "ATPJ", "owner": "Andras", "responsible": "Andras", "status": "done" },
     { "id": "t02", "title": "TEPR Programmation", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "inprogress" },
-    { "id": "t03", "title": "TEPR VFX", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "todo" },
+    { "id": "t03", "title": "TEPR VFX", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "inprogress" },
     { "id": "t04", "title": "TEPR Texturing procédural", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "inprogress" },
     { "id": "t05", "title": "TECR Animation", "type": "TECR", "owner": "Andras", "responsible": "Elora", "status": "done" },
     { "id": "t06", "title": "TECR 3D", "type": "TECR", "owner": "Andras", "responsible": "Christina", "status": "inprogress" },
@@ -21,7 +21,7 @@
     { "id": "t11", "title": "TEPR Programmation", "type": "TEPR", "owner": "Christina", "responsible": "Andras", "status": "inprogress" },
     { "id": "t12", "title": "TEPR VFX", "type": "TEPR", "owner": "Christina", "responsible": "Christina", "status": "todo" },
     { "id": "t13", "title": "TEPR Texturing procédural", "type": "TEPR", "owner": "Christina", "responsible": "Christina", "status": "todo" },
-    { "id": "t14", "title": "TECR Matériaux", "type": "TECR", "owner": "Christina", "responsible": "Christina", "status": "inprogress" },
+    { "id": "t14", "title": "TECR Matériaux", "type": "TECR", "owner": "Christina", "responsible": "Christina", "status": "done" },
     { "id": "t15", "title": "TECR 3D", "type": "TECR", "owner": "Christina", "responsible": "Christina", "status": "todo" },
     { "id": "t16", "title": "INML Unreal", "type": "INML", "owner": "Christina", "responsible": "Hugo", "status": "todo" },
     { "id": "t17", "title": "HCJV (examen écrit)", "type": "HCJV", "owner": "Christina", "responsible": "Christina", "status": "todo" },
