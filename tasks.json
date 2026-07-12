@@ -44,7 +44,7 @@
     { "id": "t33", "title": "TEPR VFX", "type": "TEPR", "owner": "Hugo", "responsible": "Hugo", "status": "todo" },
     { "id": "t34", "title": "TEPR Texturing procédural", "type": "TEPR", "owner": "Hugo", "responsible": "Hugo", "status": "inprogress" },
     { "id": "t35", "title": "TECR Matériaux", "type": "TECR", "owner": "Hugo", "responsible": "Hugo", "status": "inprogress" },
-    { "id": "t36", "title": "TECR 3D", "type": "TECR", "owner": "Hugo", "responsible": "Hugo", "status": "todo" },
+    { "id": "t36", "title": "TECR 3D", "type": "TECR", "owner": "Hugo", "responsible": "Christina", "status": "todo" },
     { "id": "t37", "title": "TECR Texturing stylisé", "type": "TECR", "owner": "Hugo", "responsible": "Nathan", "status": "done" },
     { "id": "t38", "title": "INML Unreal", "type": "INML", "owner": "Hugo", "responsible": "Hugo", "status": "done" },
     { "id": "t39", "title": "HCJV (examen écrit)", "type": "HCJV", "owner": "Hugo", "responsible": "Hugo", "status": "todo" },
