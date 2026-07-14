@@ -33,8 +33,8 @@
     { "id": "t23", "title": "TECR Matériaux", "type": "TECR", "owner": "Elora", "responsible": "Elora", "status": "inprogress" },
     { "id": "t24", "title": "TECR 3D", "type": "TECR", "owner": "Elora", "responsible": "Elora", "status": "todo" },
     { "id": "t25", "title": "TECR Texturing stylisé", "type": "TECR", "owner": "Elora", "responsible": "Nathan", "status": "done" },
-    { "id": "t26", "title": "INML Unity", "type": "INML", "owner": "Elora", "responsible": "Elora", "status": "todo" },
-    { "id": "t27", "title": "INML Unreal", "type": "INML", "owner": "Elora", "responsible": "Elora", "status": "todo" },
+    { "id": "t26", "title": "INML Unity", "type": "INML", "owner": "Elora", "responsible": "Elora", "status": "done" },
+    { "id": "t27", "title": "INML Unreal", "type": "INML", "owner": "Elora", "responsible": "Elora", "status": "inprogress" },
     { "id": "t28", "title": "HCJV (examen écrit)", "type": "HCJV", "owner": "Elora", "responsible": "Elora", "status": "todo" },
     { "id": "t29", "title": "OCJV (examen écrit)", "type": "OCJV", "owner": "Elora", "responsible": "Elora", "status": "todo" },
 
