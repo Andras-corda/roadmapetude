@@ -25,7 +25,7 @@
     { "id": "t16", "title": "INML Unreal", "type": "INML", "owner": "Christina", "responsible": "Hugo", "status": "inprogress" },
     { "id": "t17", "title": "HCJV (examen écrit)", "type": "HCJV", "owner": "Christina", "responsible": "Christina", "status": "todo" },
 
-    { "id": "t18", "title": "ATPJ Game Design", "type": "ATPJ", "owner": "Elora", "responsible": "Andras", "status": "inprogress" },
+    { "id": "t18", "title": "ATPJ Game Design", "type": "ATPJ", "owner": "Elora", "responsible": "Nathan", "status": "inprogress" },
     { "id": "t19", "title": "ATPJ Game Art", "type": "ATPJ", "owner": "Elora", "responsible": "Elora", "status": "todo" },
     { "id": "t20", "title": "TEPR Programmation", "type": "TEPR", "owner": "Elora", "responsible": "Andras", "status": "inprogress" },
     { "id": "t21", "title": "TEPR VFX", "type": "TEPR", "owner": "Elora", "responsible": "Elora", "status": "todo" },
