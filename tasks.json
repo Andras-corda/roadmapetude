@@ -12,7 +12,7 @@
     { "id": "t03", "title": "TEPR VFX", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "inprogress" },
     { "id": "t04", "title": "TEPR Texturing procédural", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "inprogress" },
     { "id": "t05", "title": "TECR Animation", "type": "TECR", "owner": "Andras", "responsible": "Elora", "status": "done" },
-    { "id": "t06", "title": "TECR 3D", "type": "TECR", "owner": "Andras", "responsible": "Christina", "status": "inprogress" },
+    { "id": "t06", "title": "TECR 3D", "type": "TECR", "owner": "Andras", "responsible": "Christina", "status": "done" },
     { "id": "t07", "title": "TECR Texturing stylisé", "type": "TECR", "owner": "Andras", "responsible": "Nathan", "status": "done" },
     { "id": "t08", "title": "INML Unity", "type": "INML", "owner": "Andras", "responsible": "Andras", "status": "done" },
     
