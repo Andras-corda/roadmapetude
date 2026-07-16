@@ -18,7 +18,7 @@
     
     { "id": "t09", "title": "ATPJ Game Design", "type": "ATPJ", "owner": "Christina", "responsible": "Andras", "status": "inprogress" },
     { "id": "t10", "title": "ATPJ Game Art", "type": "ATPJ", "owner": "Christina", "responsible": "Christina", "status": "inprogress" },
-    { "id": "t11", "title": "TEPR Programmation", "type": "TEPR", "owner": "Christina", "responsible": "Andras", "status": "inprogress" },
+    { "id": "t11", "title": "TEPR Programmation", "type": "TEPR", "owner": "Christina", "responsible": "Andras", "status": "done" },
     { "id": "t12", "title": "TEPR VFX", "type": "TEPR", "owner": "Christina", "responsible": "Christina", "status": "todo" },
     { "id": "t13", "title": "TEPR Texturing procédural", "type": "TEPR", "owner": "Christina", "responsible": "Christina", "status": "todo" },
     { "id": "t14", "title": "TECR Matériaux", "type": "TECR", "owner": "Christina", "responsible": "Christina", "status": "done" },
