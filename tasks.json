@@ -8,9 +8,9 @@
 
   "tasks": [
     { "id": "t01", "title": "ATPJ Programmation", "type": "ATPJ", "owner": "Andras", "responsible": "Andras", "status": "done" },
-    { "id": "t02", "title": "TEPR Programmation", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "inprogress" },
-    { "id": "t03", "title": "TEPR VFX", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "inprogress" },
-    { "id": "t04", "title": "TEPR Texturing procédural", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "inprogress" },
+    { "id": "t02", "title": "TEPR Programmation", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "done" },
+    { "id": "t03", "title": "TEPR VFX", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "done" },
+    { "id": "t04", "title": "TEPR Texturing procédural", "type": "TEPR", "owner": "Andras", "responsible": "Andras", "status": "done" },
     { "id": "t05", "title": "TECR Animation", "type": "TECR", "owner": "Andras", "responsible": "Elora", "status": "done" },
     { "id": "t06", "title": "TECR 3D", "type": "TECR", "owner": "Andras", "responsible": "Christina", "status": "done" },
     { "id": "t07", "title": "TECR Texturing stylisé", "type": "TECR", "owner": "Andras", "responsible": "Nathan", "status": "done" },
